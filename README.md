@@ -1,6 +1,10 @@
 # YellowPagesWebScraper
 Python bot for scraping contact data from Canadian Yellow Pages into an Excel file.
 
+Excel file contains the name, address, phone number, and website of every business from the extracted page.
+
+&nbsp;
+
 How to use:
 
 * **Make sure to install the latest BeautifulSoup library before running script**
